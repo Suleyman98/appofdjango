@@ -1,3 +1,0 @@
-"# Djangoapp" 
-"# appofdjango" 
-"# appofdjango" 
