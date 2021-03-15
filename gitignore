@@ -145,3 +145,8 @@ __pycache__
 sanalOrtam
 db.sqlite3
 .DS_Store
+*.log
+*.pot
+*.pyc
+__pycache__/
+local_settings.py
